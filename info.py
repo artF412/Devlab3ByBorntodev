@@ -1,0 +1,7 @@
+name = input("")
+lname = input("")
+address = input("")
+gender = input("")
+tel = input("")
+print("--- Customer Detail ---")
+print("Name : "+name,lname)
